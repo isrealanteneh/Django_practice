@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Django",
+		"path": "."
+	}
+],
+  "settings": {
+    "python.analysis.typeCheckingMode": "off"
+  }
+}
